@@ -1,0 +1,28 @@
+/* 
+    Document   : csseditar
+    Created on : 27-nov-2012, 18:32:50
+    Author     : vesprada
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#contenido{
+    text-align: left;
+    margin-left: 5%;
+}
+
+#contenido h1{
+    text-align: center;
+}
+#confirmar{
+    float: left;
+    margin-top: 10px;
+} 
+#atras{
+    clear: right;
+    margin-top: 10px;
+}
